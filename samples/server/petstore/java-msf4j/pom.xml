@@ -5,7 +5,7 @@
     <version>2.0.0</version>
   </parent> 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.openapitools</groupId>
+  <groupId>org.openapitools.groupeup</groupId>
   <artifactId>swagger-msf4j-server</artifactId>
   <packaging>jar</packaging>
   <name>swagger-msf4j-server</name>

@@ -6,7 +6,7 @@
         <version>5</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.openapitools</groupId>
+    <groupId>org.openapitools.groupeup</groupId>
     <artifactId>openapi-undertow-server</artifactId>
     <packaging>jar</packaging>
     <name>openapi-undertow-server</name>
